@@ -3,6 +3,26 @@
     "en-GB": "Clone repository",
     "da-DK": "Klon arkiv"
   },
+  "Repository name": {
+    "en-GB": "Repository name",
+    "da-DK": "Arkivnavn"
+  },
+  "Repository url": {
+    "en-GB": "Repository url",
+    "da-DK": "Arkivadresse"
+  },
+  "License": {
+    "en-GB": "License",
+    "da-DK": "Licens"
+  },
+  "About": {
+    "en-GB": "About",
+    "da-DK": "Om"
+  },
+  "Help": {
+    "en-GB": "Help",
+    "da-DK": "Hjælp"
+  },
   "Commit": {
     "en-GB": "Commit",
     "da-DK": "Arkivér"
@@ -11,9 +31,13 @@
     "en-GB": "Repositories",
     "da-DK": "Arkiver"
   },
-  "Ok": {
+  "OK": {
     "en-GB": "Ok",
     "da-DK": "Ok"
+  },
+  "Cancel": {
+    "en-GB": "Cancel",
+    "da-DK": "Annullér"
   },
   "Cancel": {
     "en-GB": "Cancel",
