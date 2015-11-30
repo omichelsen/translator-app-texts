@@ -1,1 +1,22 @@
-{}
+{
+  "Clone repository": {
+    "en-GB": "Clone repository",
+    "da-DK": "Klon arkiv"
+  },
+  "Commit": {
+    "en-GB": "Commit",
+    "da-DK": "Arkivér"
+  },
+  "Repositories": {
+    "en-GB": "Repositories",
+    "da-DK": "Arkiver"
+  },
+  "Ok": {
+    "en-GB": "Ok",
+    "da-DK": "Ok"
+  },
+  "Cancel": {
+    "en-GB": "Cancel",
+    "da-DK": "Annullér"
+  }
+}
