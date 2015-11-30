@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/intranslator/translator-app-texts.git"
+    "url": "git+https://github.com/jonatanpedersen/translator-app-texts.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/intranslator/translator-app-texts/issues"
+    "url": "https://github.com/jonatanpedersen/translator-app-texts/issues"
   },
-  "homepage": "https://github.com/intranslator/translator-app-texts#readme"
+  "homepage": "https://github.com/jonatanpedersen/translator-app-texts#readme"
 }
