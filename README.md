@@ -1,4 +1,7 @@
 # translator-app-texts
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/omichelsen/translator-app-texts.svg)](https://greenkeeper.io/)
+
 Texts module for the translator-app.
 
 ## Install
